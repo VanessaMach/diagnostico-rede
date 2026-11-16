@@ -1,0 +1,10 @@
+RELATÓRIO ANONIMIZADO — APÓS RECONEXÃO
+Início: 16/11/2026, às 14h21
+
+[SUCESSO] O Windows forneceu as configurações das interfaces.
+[SUCESSO] Gateway 1: respondeu ao ping.
+[SUCESSO] Gateway 2: respondeu ao ping.
+[SUCESSO] Endereço externo 1.1.1.1: respondeu ao ping.
+[SUCESSO] Consulta DNS de www.microsoft.com: nome resolvido.
+
+Resumo de teste real. Dados da rede foram ocultados.

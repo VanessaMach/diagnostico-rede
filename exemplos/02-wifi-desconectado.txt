@@ -1,0 +1,11 @@
+RELATÓRIO ANONIMIZADO — WI-FI DESCONECTADO
+Início: 16/11/2026, às 14h12
+
+[SUCESSO] O Windows forneceu as configurações das interfaces.
+[FALHA] Gateway 1: não respondeu ao ping.
+[FALHA] Gateway 2: não respondeu ao ping.
+[FALHA] Endereço externo 1.1.1.1: não respondeu ao ping.
+[FALHA] Consulta DNS de www.microsoft.com: tempo limite esgotado.
+
+Resumo de teste real. Dados da rede foram ocultados.
+Uma falha isolada não identifica a causa do problema.

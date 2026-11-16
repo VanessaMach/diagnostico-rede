@@ -1,0 +1,24 @@
+RELATÓRIO ANONIMIZADO — CONEXÃO ATIVA
+Início do teste: 16/11/2026, às 14h09
+
+[SUCESSO] Consulta da configuração de rede
+O script identificou interfaces e consultou seus endereços
+e servidores DNS. Os dados foram omitidos para preservar o ambiente.
+
+[SUCESSO] Teste do gateway 1
+O gateway respondeu ao ping.
+Endereço: [GATEWAY 1 OCULTO]
+
+[SUCESSO] Teste do gateway 2
+O gateway respondeu ao ping.
+Endereço: [GATEWAY 2 OCULTO]
+
+[SUCESSO] Teste de endereço externo
+O endereço 1.1.1.1 respondeu ao ping.
+
+[SUCESSO] Consulta DNS
+O nome www.microsoft.com foi resolvido para um endereço IPv4.
+O endereço retornado foi omitido nesta cópia.
+
+Observação: este texto resume um teste real. Nomes e endereços
+do ambiente foram ocultados; o relatório original permanece privado.
